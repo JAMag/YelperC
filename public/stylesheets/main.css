@@ -1,0 +1,28 @@
+body {
+    background-color: #a3b4b5;
+    font-family: 'Lato', sans-serif !important;
+}
+
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail.thumb-fit img {
+    height: 250px;
+    width: 100%;
+}
+
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#delete-comment {
+    display: inline;
+}
